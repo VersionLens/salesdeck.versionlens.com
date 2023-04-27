@@ -95,3 +95,12 @@ When a non-developer is happy with the result, your human developers get to doub
 | Commentors   | Unlimited        | Unlimited        |
 | Editors      | $50 each monthly | $60 each monthly |
 <!-- .element: style="font-size: 28px;" -->
+
+
+
+## How to get started?
+
+|   Try demo  | → | Agreement                    | → | Onboarding                                                                               | → | Trial           | → | Paid plan |
+|:-----------:|:-:|------------------------------|---|------------------------------------------------------------------------------------------|---|-----------------|---|-----------|
+| Coming soon |   | Strong protection of your IP |   | We do it for you and need access to:<br>* Relevant code repos<br>* A technical contact |   | 10 solved tasks |   | Optional  |
+<!-- .element: style="font-size: 32px;" -->
