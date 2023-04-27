@@ -76,15 +76,22 @@ When a non-developer is happy with the result, your human developers get to doub
 ## Pricing
 
 #### Free trial
-* 10 free product improvements
-* Free onboarding with minimal effort from you
-* No commitment
+|              |                  |
+|--------------|------------------|
+| Solved tasks | 10               |
+| Onboarding   | Free             |
+| Users        | Unlimited        |
+| Commitment   | None             |
+<!-- .element: style="font-size: 28px;" -->
 <br>
-<br>
-#### After free trial
-$500 monthly for unlimited product improvements
 
-* Unlimited product improvements
-* Unlimited viewers
-* Unlimited commentors
-* $50 monthly per editor
+#### After free trial
+
+|              | Yearly plan      | Monthly plan     |
+|--------------|------------------|------------------|
+| Base         | $500 monthly     | $600 monthly     |
+| Solved tasks | Unlimited        | Unlimited        |
+| Viewers      | Unlimited        | Unlimited        |
+| Commentors   | Unlimited        | Unlimited        |
+| Editors      | $50 each monthly | $60 each monthly |
+<!-- .element: style="font-size: 28px;" -->
